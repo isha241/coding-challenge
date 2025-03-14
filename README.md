@@ -30,5 +30,6 @@ The code exists in the `main` branch.
 
 Screenshots: 
 <img width="845" alt="Screenshot 2025-03-14 at 6 42 39 PM" src="https://github.com/user-attachments/assets/fab3d3c5-5a69-4e78-99ad-451241c34a02" />
-![Uploading Screenshot 2025-03-14 at 6.42.34 PM.png…]()
+
+<img width="1028" alt="Screenshot 2025-03-14 at 6 42 34 PM" src="https://github.com/user-attachments/assets/bcba1c2c-94b7-4622-a54e-0e126094b27b" />
 
