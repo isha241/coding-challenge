@@ -1,10 +1,34 @@
-# coding-challenge
+# Coding Challenge
 
-Steps to Run the Project:
+## Steps to Run the Project
 
-cd coding-challenge
-npm i
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd coding-challenge
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the development server:
+   ```sh
+   npm run dev
+   ```
 
-Run the server
+## Branch Information
+The code exists in the `main` branch.
 
-npm run dev
+## Additional Information
+- Ensure you have Node.js and npm installed before running the project.
+- Modify `.env` file if required before starting the server.
+- For any issues, refer to the project documentation or open an issue on the repository.
+
+
+Screenshots: 
+<img width="845" alt="Screenshot 2025-03-14 at 6 42 39 PM" src="https://github.com/user-attachments/assets/fab3d3c5-5a69-4e78-99ad-451241c34a02" />
+![Uploading Screenshot 2025-03-14 at 6.42.34 PM.png…]()
+
